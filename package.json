@@ -1,0 +1,27 @@
+{
+  "name": "task-1-coursereviews-variant",
+  "version": "1.0.0",
+  "description": "You are building the backend for a course review board. Anyone can browse\r and post course reviews — there's no login for this variant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yywsf/Task-1-coursereviews-variant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yywsf/Task-1-coursereviews-variant/issues"
+  },
+  "homepage": "https://github.com/yywsf/Task-1-coursereviews-variant#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
